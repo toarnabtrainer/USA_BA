@@ -11,6 +11,10 @@ https://www.mlsu.ac.in/econtents/16_EBOOK-7th_ed_software_engineering_a_practiti
 **MS-Project Trial Version Download:**<br>
 https://www.microsoft.com/en-in/microsoft-365/project/compare-microsoft-project-management-software?tab=1&ef_id=_k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&OCID=AIDcmmapr1szny_SEM__k_Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB_k_&gad_source=1&gclid=Cj0KCQjwy4KqBhD0ARIsAEbCt6gzuZ4E9lm8PhwF34hf5P9GasIDwr5TYhV5oyulunnQVtTydSucYjYaAhnMEALw_wcB
 
+or
+
+http://tinyurl.com/44y8ppnj
+
 **For Diagram Making:**<br>
 https://app.diagrams.net/
 
