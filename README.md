@@ -33,6 +33,9 @@ https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6M
 **Sample User Stories:**<br>
 https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 
+**Scrum Guide PDF:**<br>
+https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-US.pdf#zoom=100
+
 **MS-Office/O365 Reference Tutorial Links -**<br>
 * **MS-Office 2007:** https://edu.gcfglobal.org/en/topics/office2007/
 * **MS-Office 2010:** https://edu.gcfglobal.org/en/topics/office2010/
