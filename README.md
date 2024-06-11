@@ -63,6 +63,18 @@ https://www.youtube.com/watch?v=gUEizau0-UQ&list=PLWPirh4EWFpF9Gbnu4_DdF4ITHSN6M
 
 <hr>
 
+## Chapter-5: Prompt Engineering Resources:
+
+<hr>
+
+## Chapter-6: DBMS and Oracle SQL Resources:
+
+<hr>
+
+## Chapter-7: MS-Power BI Resources:
+
+<hr>
+
 ## Sample Template for User Stories:
 
 ![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/c01fae83-eab4-4353-860e-84159f8a82ca)
