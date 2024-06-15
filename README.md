@@ -83,3 +83,9 @@ https://in.pinterest.com/meeraacademy/project-uml-diagram/
 ![image](https://github.com/toarnabtrainer/USA_BA/assets/111301975/847c29a0-177c-470a-8da5-59e698f02fff)
 
 <hr>
+
+## UML Classwork File Hands on with www.draw.io
+
+![ATM System drawio](https://github.com/toarnabtrainer/USA_BA/assets/111301975/516f94ec-0953-4cb9-90a8-280a6a14e2af)
+
+
