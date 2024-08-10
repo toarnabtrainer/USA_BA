@@ -226,7 +226,7 @@ Data Tables or Fact Tables will have Foreign Keys, and will contain transactiona
 
 <hr>
 
-## Towards Growth and Towatds Success
+## Towards Growth and Towards Success
 
 ![image](https://github.com/user-attachments/assets/f9ef8ebf-343e-4008-88d0-70f9415f4bd2)
 
