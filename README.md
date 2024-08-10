@@ -224,4 +224,10 @@ Data Tables or Fact Tables will have Foreign Keys, and will contain transactiona
 
 ![ATM System drawio](https://github.com/toarnabtrainer/USA_BA/assets/111301975/516f94ec-0953-4cb9-90a8-280a6a14e2af)
 
+<hr>
 
+## Towards Growth and Towatds Success
+
+![image](https://github.com/user-attachments/assets/f9ef8ebf-343e-4008-88d0-70f9415f4bd2)
+
+<hr>
